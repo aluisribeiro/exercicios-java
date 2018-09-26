@@ -10,7 +10,7 @@ public class BinaryTree {
 		BinaryTree localRight = right;
 		
 		while(localRight != null) {
-			total += right.valor;
+			total += localRight.valor;
 			localRight = localRight.right;
 		}
 		
