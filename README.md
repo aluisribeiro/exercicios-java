@@ -1,7 +1,7 @@
 # Respostas dos exercícios
 
 1) A
-2) B
+2) D
 3) C
 4) A
 5) A
